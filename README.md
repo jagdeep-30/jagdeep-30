@@ -9,6 +9,7 @@ Flutter: Dart, Cross-Platform Mobile Development, Provider, Riverpod, Bloc
 iOS: Swift, SwiftUI, UIKit, Core Data, Combine
 Backend: Node.js, Express.js, MongoDB, REST APIs, GraphQL, JWT Authentication
 DevOps: Docker, Kubernetes, CI/CD, Firebase, AWS
+
 📱 Mobile App Development
 I have over 5 years of experience in developing native Android, iOS, and cross-platform Flutter applications. My focus is on building responsive, user-friendly apps with clean and maintainable code.
 
@@ -16,13 +17,17 @@ Android (Native)
 Built and maintained several high-performance Android apps using Kotlin and Java.
 Proficient in Jetpack libraries, dependency injection with Hilt, and architectural patterns like MVVM.
 Implemented complex UI using Jetpack Compose.
+
 Flutter
 Developed cross-platform mobile applications with Flutter, ensuring smooth performance on both Android and iOS.
 Integrated various packages and plugins to enhance app functionality.
+
 iOS
 Experience in building iOS apps using Swift and SwiftUI.
 Worked with Core Data for local data storage and Combine for reactive programming.
 Leveraged UIKit for building custom and complex UI components.
+
+
 🌐 Backend Development
 I also specialize in backend development with Node.js, focusing on creating robust, scalable, and secure APIs.
 
