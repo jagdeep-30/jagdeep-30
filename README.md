@@ -10,7 +10,7 @@ iOS: Swift, SwiftUI, UIKit, Core Data, Combine
 Backend: Node.js, Express.js, MongoDB, REST APIs, GraphQL, JWT Authentication
 DevOps: Docker, Kubernetes, CI/CD, Firebase, AWS
 📱 Mobile App Development
-I have over [X] years of experience in developing native Android, iOS, and cross-platform Flutter applications. My focus is on building responsive, user-friendly apps with clean and maintainable code.
+I have over 5 years of experience in developing native Android, iOS, and cross-platform Flutter applications. My focus is on building responsive, user-friendly apps with clean and maintainable code.
 
 Android (Native)
 Built and maintained several high-performance Android apps using Kotlin and Java.
